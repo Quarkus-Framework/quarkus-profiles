@@ -6,7 +6,7 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 ## Context
 CRUD application with Quarkus and library Panache, that shows like to have multiple configurations per profile
-in the same `application.properties` file.
+in the same `application.yml` or `application.properties` file.
 
 - In this app we used Hibernate ORM with Panache.
 
